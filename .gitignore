@@ -1,0 +1,20 @@
+/bin/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven target directory
+target/
+
+# Test results
+test-output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
